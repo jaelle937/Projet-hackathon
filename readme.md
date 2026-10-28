@@ -1,7 +1,8 @@
 # **Préparation au Hackathon du 02 au 05 Novembre 2026**
 
+### **Etape 1: Revue des bases en Python (variables, condition, boucles, fonctions,** 
 
-### **Etape 1: Revue des bases en Python (variables, condition, boucles, fonctions, listes, dictionnaire, objets)**
+### **listes, dictionnaire, objets)**
 
 ### **Etape 2: Revue des modules Numpy**
 
